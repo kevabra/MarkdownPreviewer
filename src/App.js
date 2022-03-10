@@ -3,7 +3,7 @@ import {marked} from 'marked';
 import ReactDOM from 'react-dom';
 
 let initial_input = `# Welcome to the Markdown Previewer.
- ## Enter text in the left to render them to HTML.
+ ## Enter text in the space above to render them to HTML.
 Plain text can be rendered as a paragraph.
 
 [My portfolio site](https://kevabra.github.io/PersonalWebsite/)
